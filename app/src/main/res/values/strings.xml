@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proyecto2CM</string>
+    <string name="number">Ingrese un número</string>
+    <string name="bienvenida">¡Bienvenid@!</string>
+    <string name="save">Guardar</string>
+    <string name="maymen"> maymen </string>
+    <string name="menmay"> menmay </string>
+    <string name="orden">Ordenar los numero de:</string>
+    <string name="errormsg">Ingresa un número</string>
+</resources>
